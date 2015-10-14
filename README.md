@@ -79,8 +79,8 @@ Note: cloning only provides the Famo.us folder with all Famo.us code, but it doe
 [cli-repo]: http://github.com/Famous/famous-cli
 [famous-organization-github]: http://github.com/Famous
 [famous-engine-seed]: http://github.com/Famous/engine-seed
-[contributing]: https://github.com/Famous/engine/blob/master/CONTRIBUTING.md
-[contributing-issues]: https://github.com/Famous/engine/blob/master/CONTRIBUTING.md#issues
+[contributing]: /CONTRIBUTING.md
+[contributing-issues]: /CONTRIBUTING.md#issues
 [browserify]: http://browserify.org/
 [npm]: http://npmjs.org
 
